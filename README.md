@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started
 Install the dependencies and run the project
 ```
@@ -17,3 +18,7 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+=======
+# vanlife
+Vanlife project that is a part of Scrimba's Advanced React course
+>>>>>>> bdc53263b44e5c2809da8cccefa70781f35a33e4
